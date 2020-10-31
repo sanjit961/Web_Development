@@ -1,0 +1,26 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 50%;
+    padding: auto;
+    margin: auto;
+}
+p{
+    font-size: 40px;
+}
+th, td {
+    padding: 15px;
+}
+table{
+    background-color: red;
+}
+th{
+    text-align: left;
+}
+table{
+    border-spacing: 5px;
+}
+h3{
+    font-size: 50px;
+    color:orangered;
+}
